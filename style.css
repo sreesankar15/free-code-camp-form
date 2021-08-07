@@ -1,0 +1,21 @@
+form {
+  background-color: rgba(151, 149, 149, 0.411);
+  border-radius: 0.40vw;
+  font-size:large;
+  max-width: 60vw;
+}
+
+#form {
+  max-width: 80vw;
+}
+
+.clue {
+  font-size: 0.9em;
+  margin-left:0.35vw;
+}
+label,input,p {
+  line-height: 2vw;
+}
+.form-check-label {
+  line-height: normal;
+}
